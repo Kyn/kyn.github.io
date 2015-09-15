@@ -46,6 +46,7 @@
   });
 
   $(function() {
+    /*
     $( '.sweetalert' ).click(function(e) {
       console.log('clicked');
       e.preventDefault();
@@ -56,6 +57,7 @@
         type: "warning",
       });
     });
+    */
   });
 
 })(jQuery);
