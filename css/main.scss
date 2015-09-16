@@ -851,12 +851,12 @@
     }
 
     &.btn-smartergiving {
-      background-color: _palette(accent5);
+      background-color: _palette(accent4);
       box-shadow: inset 0 0 0 1px _palette(dark, border) !important;
       color: white !important;
 
       &:hover {
-        background-color: darken(_palette(accent5), 10) !important;
+        background-color: darken(_palette(accent4), 10) !important;
         color: white !important;
       }
 
