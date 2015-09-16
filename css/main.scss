@@ -856,8 +856,8 @@
       color: white !important;
 
       &:hover {
-        background-color: _palette(dark, border-bg) !important;
-        color: _palette(dark, fg-bold) !important;
+        background-color: darken(_palette(accent5), 10) !important;
+        color: white !important;
       }
 
       &:active {
