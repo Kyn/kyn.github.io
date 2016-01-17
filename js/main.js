@@ -45,19 +45,4 @@
 
   });
 
-  $(function() {
-    /*
-    $( '.sweetalert' ).click(function(e) {
-      console.log('clicked');
-      e.preventDefault();
-      swal({
-        title: 'Relaunching Soon!',
-        text: 'Sorry, we\'re in the process of moving Dispatch to a new host. When it\'s ready we\'ll announce via <span style="color:#F8BB86"><a href="https://twitter.com/findkyn" target="_blank">Twitter.<span>',
-        html: true,
-        type: "warning",
-      });
-    });
-    */
-  });
-
 })(jQuery);
